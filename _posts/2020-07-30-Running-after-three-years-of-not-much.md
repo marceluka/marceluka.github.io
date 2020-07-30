@@ -1,11 +1,10 @@
 ---
-published: false
+published: true
 ---
 ---
-
+published: true
 layout: post
 title: Running after three years of not much
-published: true
 ---
 
 Text here.
