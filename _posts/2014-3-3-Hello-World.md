@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Running after three years of not
 published: true
 ---
 
@@ -13,4 +13,3 @@ So….here I am, again, running. On July 19 I tested my 5k time to have a start 
 At the end of week 1 I was able to log 4 runs which amount to a total distance of 8.6 mi and an average pace of 12:16 min/mi. Yay!
 
 Will be back with more.
-
