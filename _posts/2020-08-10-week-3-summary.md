@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-Week 3 was a good one. Here are the running stats:  
+Week 3 was a good one. Here are the stats shown in the format - this week (last week):  
 Number of runs: 3 (3)  
 Distance: 7.8 (8.2) mi    
 Pace: 11:40 (12:34) min/mi   
